@@ -1,6 +1,13 @@
 # AA24-25-Gruppo04
 
+Componenti del gruppo:
 
+Diego Galletti - 20044195
+
+Alessio Cameroni - 20044488
+
+Quello che segue dovrà essere sostituito con una sintetica descrizione del vostro progetto
+e l'indicazione di come è strutturato il repository (dove si trova la documentazione, dove il codice, dove le istruzioni per avviare i diversi componenti del vostro sistema) 
 
 ## Getting started
 
