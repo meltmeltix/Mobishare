@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mobishare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1314ccbffe6faf1195ebfc7b664c27c0c82118")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3bc92a9eeb048124a375bbe053a2023ca07e7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mobishare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mobishare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
