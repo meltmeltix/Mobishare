@@ -1757,19 +1757,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/alessio/.nuget/packages/": {}
+    "/Users/diego/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Mobishare/Mobishare.csproj",
+      "projectUniqueName": "/Users/diego/RiderProjects/aa24-25-gruppo04/Mobishare/Mobishare/Mobishare.csproj",
       "projectName": "Mobishare",
-      "projectPath": "/Users/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Mobishare/Mobishare.csproj",
-      "packagesPath": "/Users/alessio/.nuget/packages/",
-      "outputPath": "/Users/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Mobishare/obj/",
+      "projectPath": "/Users/diego/RiderProjects/aa24-25-gruppo04/Mobishare/Mobishare/Mobishare.csproj",
+      "packagesPath": "/Users/diego/.nuget/packages/",
+      "outputPath": "/Users/diego/RiderProjects/aa24-25-gruppo04/Mobishare/Mobishare/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/alessio/.nuget/NuGet/NuGet.Config"
+        "/Users/diego/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1843,7 +1843,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/diego/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
