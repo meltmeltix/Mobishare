@@ -1,4 +1,5 @@
 .DS_Store
-Mobishare/Mobishare/bin/Debug/
-Mobishare/Mobishare/obj/
+Mobishare/Mobishare.Client/bin/
+Mobishare/Mobishare.Client/obj/
+Mobishare/Mobishare.Client/node_modules/
 Mobishare/Docs/Mobishare.vpp.bak_*
