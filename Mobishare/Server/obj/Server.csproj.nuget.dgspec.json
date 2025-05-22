@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/Server.csproj": {}
+    "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj": {}
   },
   "projects": {
-    "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/Server.csproj": {
+    "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/Server.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/Server.csproj",
-        "packagesPath": "/home/alessio/.nuget/packages/",
-        "outputPath": "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/obj/",
+        "projectPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/alessio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/alessio/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
