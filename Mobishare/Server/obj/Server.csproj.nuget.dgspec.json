@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Client\\Client.csproj": {}
+    "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Client\\Client.csproj": {
+    "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Client\\Client.csproj",
-        "projectName": "Client",
-        "projectPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,26 +44,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
+            "Microsoft.Extensions.Hosting": {
               "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.2, )"
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.4, )",
-              "autoReferenced": true
-            },
-            "Microsoft.NET.Sdk.WebAssembly.Pack": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.4, )",
-              "autoReferenced": true
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -77,23 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[9.0.4, 9.0.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
         }
       }
     }

@@ -10,12 +10,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Client")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-Server-25fb5706-0b71-40a1-b1ab-511e45b83cb3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2da048cca31778b4507f66924ec4337ea040dc5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Client")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Client")]
+[assembly: System.Reflection.AssemblyProductAttribute("Server")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
