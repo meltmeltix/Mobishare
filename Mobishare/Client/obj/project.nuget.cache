@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lVLjj2lL2OM=",
+  "dgSpecHash": "nS+De5gt6ZE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Client\\Client.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,9 @@
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.jsinterop\\9.0.2\\microsoft.jsinterop.9.0.2.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.2\\microsoft.jsinterop.webassembly.9.0.2.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.4\\microsoft.net.sdk.webassembly.pack.9.0.4.nupkg.sha512",
-    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.4.nupkg.sha512"
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.0\\microsoft.net.sdk.webassembly.pack.9.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
