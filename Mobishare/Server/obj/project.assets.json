@@ -2148,24 +2148,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Diego\\.nuget\\packages\\": {}
+    "/home/alessio/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj",
+      "projectUniqueName": "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\Server.csproj",
-      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\RiderProjects\\aa24-25-gruppo04\\Mobishare\\Server\\obj\\",
+      "projectPath": "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/Server.csproj",
+      "packagesPath": "/home/alessio/.nuget/packages/",
+      "outputPath": "/home/alessio/Documents/Git/aa24-25-gruppo04/Mobishare/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/alessio/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2182,7 +2183,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -2219,7 +2220,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Diego\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
